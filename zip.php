@@ -15,3 +15,5 @@ function unzip_file($file, $destination) {
 }
 
 unzip_file('/one page web.zip', '/');
+
+?>
